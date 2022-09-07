@@ -1,0 +1,2 @@
+model_checkpoint_path: "cp_fine_tuning_1.ckpt"
+all_model_checkpoint_paths: "cp_fine_tuning_1.ckpt"
