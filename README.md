@@ -41,7 +41,7 @@ All layers in the base model were unfrozen for fine-tuning. All hyperparameters 
 ### Fine-Tuning Fitting:
 * Epochs: 100 (Used a larger number for early stopping call back)
 * 15% of validation dataset used for evaluation during training
-* Callbacks used: Tensorboard, Model Checkpoint and, early stopping
+* Callbacks used: Tensorboard, Model Checkpoint, and early stopping
 
 ## Final Accuracy of **77.7%** over less than 10 epochs
 
