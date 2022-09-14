@@ -12,7 +12,7 @@ Steps:
 1. Resizing all images to size `(224,224,3)`
 2. Change datatypes from `uint8` to `float32` for access to mixing point calculations
 3. Normalization is done in the first layer of the backbone model. (**EfficientNetB0**)
-4. All data is done then batched into batches of 32 and pre-fetched for faster loading
+4. All data is batched into batches of 32 and pre-fetched for faster loading
 
 ## Model
 ### Layers:
