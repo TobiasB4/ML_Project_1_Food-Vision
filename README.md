@@ -43,6 +43,6 @@ All layers in the base model were unfrozen for fine-tuning. All hyperparameters 
 * 15% of validation dataset used for evaluation during training
 * Callbacks used: Tensorboard, Model Checkpoint and, early stopping
 
-# Final Accuracy of **77.7%** over less than 10 epochs
+## Final Accuracy of **77.7%** over less than 10 epochs
 
 
